@@ -358,7 +358,7 @@ body {
  
   padding: 15px 0;
   width: max-content;
-  animation: scroll 8s linear infinite;
+  animation: scroll 20s linear infinite;
   overflow-x: auto; /* allow horizontal scroll */
   scroll-snap-type: x mandatory; /* smooth scroll per card */
 }
